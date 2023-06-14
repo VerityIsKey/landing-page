@@ -89,6 +89,7 @@
     align-items: center;
     justify-content: center;
     height: 100px;
+    background-color: #F9FAF8;
 }
 
 .informationHeadertxt {
@@ -97,3 +98,21 @@
     font-weight: bold;
 
 }
+
+
+.body1-container {
+    display: flex;
+    height: 300px;
+    background-color: #F9FAF8;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.infosection {
+    flex: 1;
+    max-width: 150px;
+    max-height: 150px;
+    flex-wrap: wrap;
+}
+
