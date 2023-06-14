@@ -29,3 +29,35 @@
 .link3 {
     margin-right: 100px;
 }
+
+
+.header-container {
+    display: flex;
+    background-color: #1F2937;
+
+
+}
+
+.header {
+    width: 900px;
+
+}
+.headerlogotxt {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.headertxt {
+    font-weight: extra-bold;
+    font-size: 48px; 
+    color: #F9FAF8;
+}
+
+.paragraphtxt {
+    font-size: 18;
+    color: #E5E7EB;
+}
+
+.signup {
+    background-color: #3882F6;
+}
