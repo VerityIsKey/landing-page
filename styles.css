@@ -31,6 +31,8 @@
 }
 
 
+
+
 .header-container {
     display: flex;
     background-color: #1F2937;
@@ -60,7 +62,7 @@
 }
 
 .headertxt {
-    font-weight: extra-bold;
+    font-weight: bold;
     font-size: 48px; 
     color: #F9FAF8;
 }
@@ -78,4 +80,20 @@
 .headerImage {
     max-width: 400px;
     max-height: 250px;
+}
+
+
+
+.informationHeader {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+}
+
+.informationHeadertxt {
+    color: #1F2937;
+    font-size: 36px;
+    font-weight: bold;
+
 }
