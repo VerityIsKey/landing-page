@@ -116,3 +116,36 @@
     flex-wrap: wrap;
 }
 
+
+
+.body2-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5E7EB;
+
+}
+.quote-box {
+    display: flex;
+    height: 300px;
+    width: 900px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+
+}
+
+.quote-signature {
+    font-size: 30px;
+    color: #1F2937;
+    font-weight: bolder;
+    align-self: flex-end;
+}
+
+
