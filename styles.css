@@ -149,3 +149,46 @@
 }
 
 
+.body3-container {
+    display: flex;
+    height: 300px;
+    background-color: #E5E7EB;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.call-to-action-box {
+    display: flex;
+    height: 150px;
+    width: 900px;
+    background-color: #3882F6;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.call-to-action-main {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-text {
+    color: #F9FAF8;
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.sub-text {
+    font-size: 18px;
+    color: #F9FAF8;
+
+}
+
+.button-signup {
+    background-color: #3882F6;
+    border-color: #F9FAF8;
+    width: 100px;
+    color: #F9FAF8;
+    }
+
